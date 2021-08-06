@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Smaug6739/BOT-discord#readme",
   "dependencies": {
-    "discord.js": "^12.5.1"
+    "discord.js": "^13.0.0"
   }
 }
